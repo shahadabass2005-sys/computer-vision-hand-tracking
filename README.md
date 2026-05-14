@@ -18,3 +18,7 @@ Technologies Used
 1. Install the required libraries:
 ```bash
 pip install opencv-python mediapipe
+
+## Demo
+
+![Hand Tracking Demo](demo.png)
