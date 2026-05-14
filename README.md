@@ -21,4 +21,4 @@ pip install opencv-python mediapipe
 
 ## Demo
 
-![Hand Tracking Demo](demo.png)
+![Hand Tracking Demo](demo.png.png)
